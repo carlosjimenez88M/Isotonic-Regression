@@ -8,6 +8,11 @@ La regresión isotónica se basa en el concepto de la [teoría del orden](https:
 
 
 
+## Caso de Uso
 
+En las siguientes instancias encontrará un análisis y un ejemplo de uso de la regresión isotónica 
+
+* [Random Example](https://github.com/carlosjimenez88M/Isotonic-Regression/blob/master/Isotonic%20regression.ipynb)
+* [Covid Example](https://github.com/carlosjimenez88M/Isotonic-Regression/blob/master/Isotonic%20Example.ipynb)
 
 
